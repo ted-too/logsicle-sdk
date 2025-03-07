@@ -48,5 +48,9 @@
     "ts-jest": "^29.0.0",
     "tsup": "^8.0.0",
     "typescript": "^5.0.0"
+  },
+  "homepage": "https://github.com/ted-too/logsicle-sdk/blob/main/packages/node/README.md",
+  "publishConfig": {
+    "access": "public"
   }
 }
